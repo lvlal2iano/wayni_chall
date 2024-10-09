@@ -1,0 +1,13 @@
+[90m= [39m[
+    [
+      "[34midentificador[39m" => [35m12345678[39m,
+      "[34msituacion[39m" => [35m1[39m,
+      "[34msuma_deuda[39m" => [35m1234[39m,
+    ],
+    [
+      "[34midentificador[39m" => [35m12345679[39m,
+      "[34msituacion[39m" => [35m2[39m,
+      "[34msuma_deuda[39m" => [35m1235[39m,
+    ],
+  ]
+
