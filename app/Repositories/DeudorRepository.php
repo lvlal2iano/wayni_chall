@@ -18,7 +18,6 @@ class DeudorRepository{
      */
     public function import(ParseImportFileSuccess $parsedData) : ?Collection
     {
-        new (new Deudor());
         try {
             $rows = $parsedData->lines->groupBy('deudor');
             $deudores = $rows->map(function(Collection $row){ 
